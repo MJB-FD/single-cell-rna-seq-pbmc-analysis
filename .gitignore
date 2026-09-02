@@ -1,1 +1,5 @@
+# Raw data
 data/raw/
+
+# R serialized objects
+*.rds
